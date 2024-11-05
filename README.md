@@ -8,18 +8,21 @@ This project was developed as part of the **Fundamentals of Machine Learning** c
 
 ## Showcase
 
+### Greenhouse Analysis
 <img width="944" alt="Screenshot 2024-11-03 at 4 24 28 PM" src="https://github.com/user-attachments/assets/a14b68d8-0f28-4841-a8e1-d28b2fe9e0ef">
-
-<img width="944" alt="Screenshot 2024-11-03 at 4 43 24 PM" src="https://github.com/user-attachments/assets/a2154e5d-ed12-4e2a-8d42-292f4f925192">
-
-
-<img width="1437" alt="Screenshot 2024-11-03 at 4 59 04 PM" src="https://github.com/user-attachments/assets/deeb62de-8fad-4efd-94f1-9328d9aae98e">
 
 <img width="944" alt="Screenshot 2024-11-03 at 4 25 41 PM" src="https://github.com/user-attachments/assets/d9a2a255-8869-4ddf-a7ce-e0f0c2e5a690">
 
 
-<img width="942" alt="Screenshot 2024-11-03 at 4 54 04 PM" src="https://github.com/user-attachments/assets/0a8e2ebc-6cc2-46a5-be3c-905b97501751">
+### ToyAnalysis
+<img width="944" alt="Screenshot 2024-11-03 at 4 43 24 PM" src="https://github.com/user-attachments/assets/a2154e5d-ed12-4e2a-8d42-292f4f925192">
 
+### Logistic Regression
+<img width="1437" alt="Screenshot 2024-11-03 at 4 59 04 PM" src="https://github.com/user-attachments/assets/deeb62de-8fad-4efd-94f1-9328d9aae98e">
+
+### KMeans
+
+<img width="942" alt="Screenshot 2024-11-03 at 4 54 04 PM" src="https://github.com/user-attachments/assets/0a8e2ebc-6cc2-46a5-be3c-905b97501751">
 
 ## Project Structure
 
