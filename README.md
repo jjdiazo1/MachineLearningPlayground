@@ -56,9 +56,9 @@ This repository contains multiple Python scripts, each focusing on a specific al
    pip install numpy matplotlib
    ```
 
-2. **Run scripts**: Each script can be executed independently. Simply run:
+2. **Run scripts**: Each script can be executed independently. Run:
 
-  ```bash
-   python script_name.py
-  ```
+    ```bash
+     python script_name.py
+    ```
 
