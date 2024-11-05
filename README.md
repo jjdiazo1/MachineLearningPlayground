@@ -1,6 +1,6 @@
 # MachineLearningPlayground
 
-# Basic Machine Learning Models for Toy Datasets
+Basic Machine Learning Models for Toy Datasets
 
 ## Project Overview
 
